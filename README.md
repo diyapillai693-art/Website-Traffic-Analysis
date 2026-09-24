@@ -1,6 +1,5 @@
 # Website-Traffic-Analysis 
-@syntecxhub
-Website Traffic Analysis Dashboard An interactive Website Traffic Analysis Dashboard built using Microsoft Power BI to analyze website performance, visitor behavior, traffic sources, engagement, and goal conversions.
+@syntecxhub| Website Traffic Analysis Dashboard | An interactive Website Traffic Analysis Dashboard built using Microsoft Power BI to analyze website performance, visitor behavior, traffic sources, engagement, and goal conversions.
 
 # Dashboard Highlights
 1.) Key Performance Indicators: Total Sessions, Total Users, and Total Bounce Rate. 
